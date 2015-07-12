@@ -1,6 +1,6 @@
 {
     "main": "main.html",
-    "name": "AxeKit",
+    "name": "RegexKit",
     "version": "0.1",
     "node-remote":"<local>",
     "webkit": {
