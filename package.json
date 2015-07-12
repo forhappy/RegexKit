@@ -1,0 +1,15 @@
+{
+    "main": "main.html",
+    "name": "AxeKit",
+    "version": "0.1",
+    "node-remote":"<local>",
+    "webkit": {
+        "page-cache":false
+    },
+    "window": {
+        "toolbar": false,
+        "frame": false,
+        "width": 1320,
+        "height": 768
+    }
+}
