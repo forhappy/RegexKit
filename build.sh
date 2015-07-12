@@ -1,9 +1,9 @@
 #!/bin/bash
 
-APPNAME=regex
+APPNAME=RegexKit
 
 zip -r ../${PWD##*/}.nw *
 
 mv -f ../${APPNAME}.nw ../app.nw
-mv -f ../app.nw ../nwjs.app/Contents/Resources/app.nw
-open ../nwjs.app
+mv -f ../app.nw ../${APPNAME}.app/Contents/Resources/app.nw
+open ../${APPNAME}.app
