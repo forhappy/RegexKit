@@ -1,6 +1,7 @@
 {
-    "main": "main.html",
     "name": "RegexKit",
+    "main": "main.html",
+    "node-main": "server.js",
     "version": "0.1",
     "node-remote":"<local>",
     "webkit": {
