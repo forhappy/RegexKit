@@ -39,6 +39,9 @@ Here are some RegexKit screenshots:
 
 ![visualization-1](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/regex-unittest-1.png)
 
+## License
+RegexKit uses the MIT license, see our `LICENSE` file.
+
 
 
 
