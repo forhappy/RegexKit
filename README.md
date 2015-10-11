@@ -23,6 +23,22 @@ Here are some RegexKit screenshots:
 
 ![overview](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/overview.png)
 
+- Visualization Demo 1:
+
+![visualization-1](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/visualization-1.png)
+
+- Visualization Demo 2:
+
+![visualization-1](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/visualization-2.png)
+
+- Visualization Demo 3:
+
+![visualization-1](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/visualization-3.png)
+
+- Unittest 1:
+
+![visualization-1](https://raw.githubusercontent.com/forhappy/RegexKit/master/screenshots/regex-unittest-1.png)
+
 
 
 
