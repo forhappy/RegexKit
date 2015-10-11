@@ -12,7 +12,7 @@ RegexKit is based on a series of greate open source projects.
 
 # Download
 
-As for v0.1.1, we only provide package on Mac OS X.
+As for v0.1.1,only package on Mac OS X is provided.(Windows and Linux version is under packaging)
 
 - Max OS X: [RegexKit.app](https://github.com/forhappy/RegexKit/releases/download/v0.1.1/RegexKit.app.zip)
 
