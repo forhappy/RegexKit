@@ -12,10 +12,11 @@ RegexKit is based on a series of greate open source projects.
 
 # Download
 
-As for v0.1.1,only package on Mac OS X and Linux(x64) are provided.(Windows version is under packaging)
+As for v0.1.1,only package on Mac OS X, Linux(x64), Windows(x64) are provided.(Windows(x32) and Linux(x32) version are under packaging)
 
 - Max OS X: [RegexKit.app](https://github.com/forhappy/RegexKit/releases/download/v0.1.1/RegexKit.app.zip)
 - Linux: [X64](https://github.com/forhappy/RegexKit/releases/download/v0.1.1/RegexKit-v0.1.1-linux-x64.tar.gz)
+- Windows: [X64](https://github.com/forhappy/RegexKit/releases/download/v0.1.1/RegexKit.zip)
 
 # Screenshots
 Here are some RegexKit screenshots:
